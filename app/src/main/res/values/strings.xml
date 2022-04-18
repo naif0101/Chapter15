@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Chapter15</string>
+    <string-array name="cities">
+        <item>Riyadh</item>
+        <item>Khobar</item>
+        <item>Abha</item>
+        <item>Jeddah</item>
+        <item>Paris</item>
+        <item>Atlanta</item>
+    </string-array>
+</resources>
